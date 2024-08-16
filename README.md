@@ -1,2 +1,2 @@
 # HackerRank
-This repo contains my submission to HackerRank challenges
+This repository contains my submission to HackerRank challenges
